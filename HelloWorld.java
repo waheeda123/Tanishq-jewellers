@@ -1,3 +1,4 @@
+import java.lang.*;
 class HelloWorld.java
 {
 public static void main(args[] String)
